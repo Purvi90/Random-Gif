@@ -30,7 +30,7 @@ import useGif from '../hooks/useGif';
 
 <input 
 
-className='w-10/12 text-lg py-2 rounded-lg mb-[3px] text-center'
+className='w-11/12 text-lg py-2 rounded-lg mb-[3px] text-center'
 
  onChange={(event)=> setTag(event.target.value)}
 value={tag}
